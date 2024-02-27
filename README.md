@@ -18,3 +18,6 @@ In this game, you control a character who can move using the WASD keys, jump usi
 - Multiple levels with increasing difficulty.
 
 
+![game](https://github.com/beyzaokten/Platform-Game/assets/95380183/350f09f7-784b-4f66-8daf-b28aaae21a61)
+
+![game1](https://github.com/beyzaokten/Platform-Game/assets/95380183/8e1395d4-8f85-4430-b49e-cbdd0dafb13f)
